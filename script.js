@@ -3,7 +3,7 @@ var txt = `Dear Adesewa,
 I can't think of anyone else.I never thought,
 I would like you this much, and i never thought you'd be on my mind this much.
 Every time for me is a love day with you! Adeniran Ololade Adesewa!
-  So I can share this with you...On this day made just for lovers. , will you be my val?
+  So I can share this with you...On this day made just for lovers. will you be my val?
 
 `;
 var speed = 100;
